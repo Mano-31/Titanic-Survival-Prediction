@@ -3,7 +3,7 @@
 # 🚢 Titanic Survival Prediction
 ![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/eda.png)
 ![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/Correlation%20Heatmap.png)
-![Show Image]()
+![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/PCA%20Dimensionality%20Reduction.png)
 ![Show Image]
 ![Show Image]
 
