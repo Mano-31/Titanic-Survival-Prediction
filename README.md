@@ -6,7 +6,7 @@
 ![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/PCA%20Dimensionality%20Reduction.png)
 ![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/K-Means%20Clustering.png)
 ![Show Image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/K-Means%20Clustering%20pca.png)
-
+![show image](https://github.com/Mano-31/Titanic-Survival-Prediction/blob/main/Random%20Forest%20Classification.png)
 
 # 📌 Project Overview
 An intermediate-level end-to-end data science project that analyzes the 
