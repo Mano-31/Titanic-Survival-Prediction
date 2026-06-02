@@ -177,6 +177,12 @@ Duration: 6 weeks, 1 hour/day
 
 Tools: Python, Pandas, Seaborn, Scikit-learn, Jupyter
 
+# Author
+
+Manogaran P
+
+LinkedIn: https://www.linkedin.com/in/manogaran-p-892944371?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 # 📄 License
 This project is open source and available under the MIT License.
 
